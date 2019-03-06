@@ -1,0 +1,52 @@
+<!DOCTYPE CrossStudio_Session_File>
+<session>
+ <Bookmarks>
+  <BookmarkItem objectName="" line="1254" column="4" path="C:/Nordic_Semiconductor_ASA/nRF5_SDK_15.2.0_9412b96/examples/dfu/secure_bootloader/pca10040_uart_debug/config/sdk_config.h" number="1" extra="#define NRFX_UARTE_ENABLED 1" color="5"/>
+ </Bookmarks>
+ <Breakpoints groups="Breakpoints" active_group="Breakpoints"/>
+ <ExecutionProfileWindow/>
+ <FrameBufferWindow>
+  <FrameBufferWindow bufferHeight="-1" addressSpace="" addressText="" bufferWidth="-1"/>
+ </FrameBufferWindow>
+ <Memory1/>
+ <Memory2/>
+ <Memory3/>
+ <Memory4/>
+ <Project>
+  <ProjectSessionItem path="secure_bootloader_uart_mbr_pca10040_debug"/>
+  <ProjectSessionItem path="secure_bootloader_uart_mbr_pca10040_debug;secure_bootloader_uart_mbr_pca10040_debug"/>
+  <ProjectSessionItem path="secure_bootloader_uart_mbr_pca10040_debug;secure_bootloader_uart_mbr_pca10040_debug;Application"/>
+  <ProjectSessionItem path="secure_bootloader_uart_mbr_pca10040_debug;secure_bootloader_uart_mbr_pca10040_debug;nRF_Bootloader"/>
+  <ProjectSessionItem path="secure_bootloader_uart_mbr_pca10040_debug;secure_bootloader_uart_mbr_pca10040_debug;nRF_DFU"/>
+  <ProjectSessionItem path="secure_bootloader_uart_mbr_pca10040_debug;secure_bootloader_uart_mbr_pca10040_debug;nRF_Drivers"/>
+  <ProjectSessionItem path="secure_bootloader_uart_mbr_pca10040_debug;secure_bootloader_uart_mbr_pca10040_debug;nRF_Libraries"/>
+ </Project>
+ <Register1/>
+ <Register2/>
+ <Register3/>
+ <Register4/>
+ <Threads>
+  <ThreadsWindow showLists=""/>
+ </Threads>
+ <TraceWindow>
+  <Trace enabled="Yes"/>
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Never"/>
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never"/>
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never"/>
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never"/>
+ </Watch4>
+ <Files>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="8" useTextEdit="1" useBinaryEdit="0" left="0" path="../../main.c" selected="0" top="10" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="4" useTextEdit="1" useBinaryEdit="0" left="0" path="secure_bootloader_uart_mbr_pca10040_debug.emProject" selected="0" top="6" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="1390" useTextEdit="1" useBinaryEdit="0" left="0" path="../config/sdk_config.h" selected="1" top="1383" codecName="Default"/>
+ </Files>
+ <ARMCrossStudioWindow activeProject="secure_bootloader_uart_mbr_pca10040_debug" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="Release" debugSearchFileMap="" fileDialogInitialDirectory="" debugSearchPath="" autoConnectCapabilities="3711"/>
+</session>
