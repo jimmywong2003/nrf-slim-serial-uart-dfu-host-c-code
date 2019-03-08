@@ -56,3 +56,5 @@ nrfutil 3.5 / 4.0
 
 To compile it, clone the repository in the \nRF5_SDK_15.2.0_9412b96\ folder. If you download the zip, place each of the project folders of this repository into the \nRF5_SDK_15.2.0_9412b96\ folder.
 
+This example is tested and worked with Nordic SDK 15.2.
+
